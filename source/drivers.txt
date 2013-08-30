@@ -44,6 +44,14 @@ Erlang
 
    drivers/erlang
 
+Go
+------
+
+.. toctree::
+   :maxdepth: 1
+
+   drivers/go
+
 Java
 ----
 
